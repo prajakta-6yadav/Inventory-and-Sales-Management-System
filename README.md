@@ -1,127 +1,70 @@
-📦 Inventory and Sales Management Dashboard
+# Inventory and Sales Management
 
-Overview
+This project provides an end-to-end **Inventory and Sales Management**
+system.\
+It includes structured data processing, analysis, and visualization
+dashboards to help businesses track product performance, stock levels,
+customer activity, and revenue patterns.
 
-This project provides a data-driven system for monitoring and analyzing key Inventory and Sales performance indicators. By utilizing a relational database model (as defined in project_inventory.sql) and generating derived metrics, the solution offers critical insights into product performance, stock levels, customer behavior, and geographical sales distribution.
+------------------------------------------------------------------------
 
-The primary goal is to support decision-making, such as optimizing inventory, identifying high-value products and customers, and managing supplier relationships efficiently.
+## 📊 Dashboard Overview
 
-Key Performance Indicators (KPIs)
+Below is the dashboard included in the project:
 
-The analysis focuses on several core business metrics derived from the raw data:
+![Dashboard](WhatsApp_Image_2025-11-17_at_3.46.32_PM.jpeg)
 
-Metric
+This dashboard showcases: - **Total Products** - **Total Orders** -
+**Total Stock** - **Low Stock Alerts** - **City-wise Sales Value** -
+**Category-wise Revenue** - **Top 10 Selling Products** - **Total
+Customers**
 
-Value
+------------------------------------------------------------------------
 
-Insight
+## 📁 Project Files (from ZIP)
 
-Total Customers
+The uploaded ZIP file contains: - Raw and cleaned datasets\
+- Scripts for data preprocessing\
+- Dashboard source files\
+- Visualizations\
+- Summary reports
 
-500
+All these components work together to provide real-time insights into
+inventory movements and sales trends.
 
-Indicates the size of the active customer base.
+------------------------------------------------------------------------
 
-Total Stock Quantity
+## 🚀 Key Features
 
-197,751 units
+-   Track stock levels and highlight items running low
+-   Monitor category and city-level revenue performance
+-   Identify top-selling products
+-   Analyze customer base and purchase patterns
+-   Professionally designed dashboard for presentations
 
-The current combined inventory holding across all products.
+------------------------------------------------------------------------
 
-Total Units Sold
+## 📦 How to Use
 
-100,477 units
+1.  Extract the ZIP file\
+2.  Open the dashboard file in Excel/Power BI/Tableau (depending on
+    format)\
+3.  Load the dataset\
+4.  View and interact with the visual insights\
+5.  Customize filters to explore deeper patterns
 
-Measures overall sales volume.
+------------------------------------------------------------------------
 
-Total Products
+## 📝 Summary
 
-200
+This project helps businesses **optimize inventory**, **maximize
+sales**, and **avoid stockouts** using clear visual analytics and
+well-structured data processing.
 
-The total number of unique products managed in the system.
+------------------------------------------------------------------------
 
-Data Analysis Highlights
+## 📷 Included Dashboard Image
 
-The core strength of this project lies in transforming raw transaction data into actionable business intelligence.
+The image is located inside the repository for reference.
 
-1. Sales and Revenue Performance
-
-Category Revenue: Groceries generate the highest revenue, followed by Furniture, Clothing, and Electronics. This suggests Groceries are a crucial focus area for maximum turnover.
-
-Top Selling Products (by Volume):
-
-Saree 7 (747 units)
-
-Bookshelf 6 (671 units)
-
-Eggs 38 (659 units)
-
-City-wise Sales Value:
-
-Bangalore ($54.6 million) is the top-performing city in terms of total sales value.
-
-This is followed by Mumbai, Hyderabad, Pune, and Delhi. This geographical breakdown is crucial for targeted marketing and distribution planning.
-
-2. Inventory Management
-
-Low Stock Alert: The system effectively flags products requiring immediate reorder (Stock Quantity $< 100$). Critical low-stock items include:
-
-Oil 27 (23 units)
-
-Office Chair 11 (26 units)
-
-Mouse 39 (37 units)
-
-Data Schema and Source Files
-
-The analysis is built upon a standard relational schema comprising four main tables.
-
-Source Files Included
-
-File
-
-Description
-
-Schema/Columns (Examples)
-
-Products.csv
-
-Master list of products with inventory details.
-
-ProductID, ProductName, Category, UnitPrice, StockQuantity, SupplierID
-
-Customers.csv
-
-Directory of customer information.
-
-CustomerID, CustomerName, City, Phone
-
-Sales.csv
-
-Transaction log, linking products and customers to quantities sold.
-
-SaleID, ProductID, CustomerID, Quantity, SaleDate
-
-Suppliers.csv
-
-Master list of product suppliers.
-
-SupplierID, SupplierName, City, Phone
-
-project_inventory.sql
-
-Contains the SQL script used to define the database and generate all analytical queries (e.g., Top Selling Products, City-wise Sales Summary).
-
-
-
-Dashboard Visualization
-
-The following dashboard provides a visual summary of the key findings, including total stock, orders, customer count, and graphical representations of the sales distribution by city and product category.
-
-Technologies
-
-Database: SQL (Scripts provided in project_inventory.sql)
-
-Data Analysis: Microsoft Excel (Output files provided as CSVs)
-
-Visualization: Dashboard tool (as seen in the included image)
+------------------------------------------------------------------------
