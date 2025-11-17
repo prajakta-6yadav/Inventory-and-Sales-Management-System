@@ -12,7 +12,7 @@ customer activity, and revenue patterns.
 
 Below is the dashboard included in the project:
 
-![83923d25a969b4c51fc2db7e6ed7b206](https://github.com/user-attachments/assets/12d4395c-3908-4a00-b1b4-44581dbaad2a)
+<img width="1486" height="855" alt="Screenshot 2025-11-17 152016" src="https://github.com/user-attachments/assets/0adb86a3-0076-4ab9-8a2c-1c922c08684b" />
 
 
 This dashboard showcases: - **Total Products** - **Total Orders** -
