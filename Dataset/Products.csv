@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,UnitPrice,StockQuantity,SupplierID
+1,Laptop 1,Electronics,695,175,23
+2,Smartphone 2,Electronics,167,1925,42
+3,Bluetooth Speaker 3,Electronics,2978,1512,22
+4,Smartwatch 4,Electronics,2601,1092,21
+5,Printer 5,Electronics,4339,986,27
+6,Headphones 6,Electronics,896,868,31
+7,Monitor 7,Electronics,2812,1127,6
+8,Keyboard 8,Electronics,1191,1404,27
+9,Mouse 9,Electronics,1860,708,40
+10,Webcam 10,Electronics,773,167,34
+11,Laptop 11,Electronics,274,1673,12
+12,Smartphone 12,Electronics,4677,361,45
+13,Bluetooth Speaker 13,Electronics,4258,495,7
+14,Smartwatch 14,Electronics,4704,1106,10
+15,Printer 15,Electronics,2098,1744,45
+16,Headphones 16,Electronics,4799,1403,17
+17,Monitor 17,Electronics,4465,580,26
+18,Keyboard 18,Electronics,1623,346,21
+19,Mouse 19,Electronics,1878,1812,28
+20,Webcam 20,Electronics,1967,1779,46
+21,Laptop 21,Electronics,4284,1184,2
+22,Smartphone 22,Electronics,2076,1009,43
+23,Bluetooth Speaker 23,Electronics,3794,234,1
+24,Smartwatch 24,Electronics,951,454,36
+25,Printer 25,Electronics,4835,1934,26
+26,Headphones 26,Electronics,2089,971,29
+27,Monitor 27,Electronics,59,742,21
+28,Keyboard 28,Electronics,310,1361,11
+29,Mouse 29,Electronics,1723,51,40
+30,Webcam 30,Electronics,2269,689,11
+31,Laptop 31,Electronics,2110,304,36
+32,Smartphone 32,Electronics,3763,1348,49
+33,Bluetooth Speaker 33,Electronics,1669,448,39
+34,Smartwatch 34,Electronics,370,1520,40
+35,Printer 35,Electronics,1392,305,35
+36,Headphones 36,Electronics,2426,1187,34
+37,Monitor 37,Electronics,2882,1467,47
+38,Keyboard 38,Electronics,2874,1062,24
+39,Mouse 39,Electronics,2044,37,22
+40,Webcam 40,Electronics,3008,788,5
+41,Laptop 41,Electronics,2088,609,33
+42,Smartphone 42,Electronics,3540,1414,36
+43,Bluetooth Speaker 43,Electronics,3727,1218,47
+44,Smartwatch 44,Electronics,1168,1029,20
+45,Printer 45,Electronics,1654,213,19
+46,Headphones 46,Electronics,4077,521,35
+47,Monitor 47,Electronics,285,1007,43
+48,Keyboard 48,Electronics,2019,1156,17
+49,Mouse 49,Electronics,4479,133,45
+50,Webcam 50,Electronics,1958,1265,43
+51,T-Shirt 1,Clothing,425,1721,34
+52,Jeans 2,Clothing,3580,966,9
+53,Jacket 3,Clothing,2685,850,26
+54,Shirt 4,Clothing,1620,1687,2
+55,Kurti 5,Clothing,2610,1940,9
+56,Sneakers 6,Clothing,3441,1307,9
+57,Saree 7,Clothing,3015,944,40
+58,Hoodie 8,Clothing,3693,74,17
+59,Cap 9,Clothing,3900,1914,1
+60,Socks 10,Clothing,922,1686,25
+61,T-Shirt 11,Clothing,1302,819,43
+62,Jeans 12,Clothing,1364,797,40
+63,Jacket 13,Clothing,4870,1501,42
+64,Shirt 14,Clothing,2948,1921,25
+65,Kurti 15,Clothing,127,181,39
+66,Sneakers 16,Clothing,2671,1423,35
+67,Saree 17,Clothing,4277,106,3
+68,Hoodie 18,Clothing,650,74,50
+69,Cap 19,Clothing,1115,1519,37
+70,Socks 20,Clothing,2186,1843,44
+71,T-Shirt 21,Clothing,2499,1221,44
+72,Jeans 22,Clothing,2393,1434,30
+73,Jacket 23,Clothing,1913,1392,38
+74,Shirt 24,Clothing,1368,1051,34
+75,Kurti 25,Clothing,4761,852,12
+76,Sneakers 26,Clothing,3647,332,19
+77,Saree 27,Clothing,3812,778,37
+78,Hoodie 28,Clothing,4720,1878,44
+79,Cap 29,Clothing,2240,462,49
+80,Socks 30,Clothing,1042,1810,17
+81,T-Shirt 31,Clothing,2762,347,10
+82,Jeans 32,Clothing,2242,1097,49
+83,Jacket 33,Clothing,1298,780,47
+84,Shirt 34,Clothing,3104,1282,12
+85,Kurti 35,Clothing,4648,1272,16
+86,Sneakers 36,Clothing,4083,598,24
+87,Saree 37,Clothing,2047,1094,19
+88,Hoodie 38,Clothing,4966,1652,8
+89,Cap 39,Clothing,3737,1647,31
+90,Socks 40,Clothing,2201,1026,21
+91,T-Shirt 41,Clothing,4068,1307,17
+92,Jeans 42,Clothing,3160,1461,23
+93,Jacket 43,Clothing,2020,1846,37
+94,Shirt 44,Clothing,247,115,16
+95,Kurti 45,Clothing,2676,1131,6
+96,Sneakers 46,Clothing,1252,1121,8
+97,Saree 47,Clothing,2085,1331,25
+98,Hoodie 48,Clothing,527,1163,18
+99,Cap 49,Clothing,1304,833,25
+100,Socks 50,Clothing,972,510,12
+101,Office Chair 1,Furniture,469,1955,15
+102,Study Table 2,Furniture,2254,471,26
+103,Sofa 3,Furniture,2647,1543,41
+104,Bed 4,Furniture,1170,184,45
+105,Cupboard 5,Furniture,3118,201,26
+106,Bookshelf 6,Furniture,1000,488,47
+107,Dining Table 7,Furniture,2386,929,32
+108,TV Stand 8,Furniture,2293,754,10
+109,Stool 9,Furniture,2695,842,16
+110,Mattress 10,Furniture,1907,963,7
+111,Office Chair 11,Furniture,4662,26,17
+112,Study Table 12,Furniture,1915,349,23
+113,Sofa 13,Furniture,2962,794,26
+114,Bed 14,Furniture,2903,1716,21
+115,Cupboard 15,Furniture,4960,170,22
+116,Bookshelf 16,Furniture,3278,1128,7
+117,Dining Table 17,Furniture,3769,166,14
+118,TV Stand 18,Furniture,3278,1667,15
+119,Stool 19,Furniture,2421,1424,7
+120,Mattress 20,Furniture,2941,934,9
+121,Office Chair 21,Furniture,3806,1591,48
+122,Study Table 22,Furniture,4275,1328,8
+123,Sofa 23,Furniture,144,719,50
+124,Bed 24,Furniture,2724,101,23
+125,Cupboard 25,Furniture,2005,533,29
+126,Bookshelf 26,Furniture,843,1940,18
+127,Dining Table 27,Furniture,1884,834,31
+128,TV Stand 28,Furniture,2166,728,30
+129,Stool 29,Furniture,4156,1959,39
+130,Mattress 30,Furniture,3375,1566,35
+131,Office Chair 31,Furniture,2969,765,18
+132,Study Table 32,Furniture,2647,1042,42
+133,Sofa 33,Furniture,3255,1429,39
+134,Bed 34,Furniture,4857,726,17
+135,Cupboard 35,Furniture,864,490,14
+136,Bookshelf 36,Furniture,395,1162,31
+137,Dining Table 37,Furniture,2399,415,24
+138,TV Stand 38,Furniture,412,1575,35
+139,Stool 39,Furniture,2493,280,44
+140,Mattress 40,Furniture,2315,824,45
+141,Office Chair 41,Furniture,2238,953,34
+142,Study Table 42,Furniture,3055,1299,3
+143,Sofa 43,Furniture,3331,1777,37
+144,Bed 44,Furniture,1034,924,43
+145,Cupboard 45,Furniture,1689,1269,40
+146,Bookshelf 46,Furniture,877,1096,26
+147,Dining Table 47,Furniture,2780,959,23
+148,TV Stand 48,Furniture,3581,1910,44
+149,Stool 49,Furniture,4501,1543,39
+150,Mattress 50,Furniture,2985,1549,15
+151,Rice 1,Groceries,3926,873,49
+152,Wheat Flour 2,Groceries,176,1407,4
+153,Milk 3,Groceries,3227,1323,29
+154,Sugar 4,Groceries,3106,612,22
+155,Tea 5,Groceries,653,733,25
+156,Coffee 6,Groceries,3499,1201,13
+157,Oil 7,Groceries,4196,651,18
+158,Eggs 8,Groceries,3583,78,33
+159,Biscuits 9,Groceries,3417,1770,16
+160,Salt 10,Groceries,3418,147,45
+161,Rice 11,Groceries,3847,755,42
+162,Wheat Flour 12,Groceries,1842,740,44
+163,Milk 13,Groceries,2911,1925,2
+164,Sugar 14,Groceries,3526,1158,35
+165,Tea 15,Groceries,3467,1252,42
+166,Coffee 16,Groceries,1695,545,34
+167,Oil 17,Groceries,1255,540,30
+168,Eggs 18,Groceries,3080,571,13
+169,Biscuits 19,Groceries,2922,256,13
+170,Salt 20,Groceries,3122,1324,18
+171,Rice 21,Groceries,1904,1402,32
+172,Wheat Flour 22,Groceries,4071,1244,32
+173,Milk 23,Groceries,4712,1801,35
+174,Sugar 24,Groceries,2758,1321,39
+175,Tea 25,Groceries,3552,1278,46
+176,Coffee 26,Groceries,1382,513,29
+177,Oil 27,Groceries,251,23,49
+178,Eggs 28,Groceries,3557,685,29
+179,Biscuits 29,Groceries,4262,461,44
+180,Salt 30,Groceries,624,48,16
+181,Rice 31,Groceries,586,1152,44
+182,Wheat Flour 32,Groceries,1675,629,47
+183,Milk 33,Groceries,2172,1770,10
+184,Sugar 34,Groceries,435,824,30
+185,Tea 35,Groceries,3331,94,25
+186,Coffee 36,Groceries,524,857,39
+187,Oil 37,Groceries,467,1189,20
+188,Eggs 38,Groceries,3650,147,5
+189,Biscuits 39,Groceries,1004,1896,1
+190,Salt 40,Groceries,4908,61,30
+191,Rice 41,Groceries,1255,1399,49
+192,Wheat Flour 42,Groceries,4809,60,3
+193,Milk 43,Groceries,4170,953,45
+194,Sugar 44,Groceries,2040,53,14
+195,Tea 45,Groceries,4855,1060,30
+196,Coffee 46,Groceries,3622,1720,50
+197,Oil 47,Groceries,4430,1196,4
+198,Eggs 48,Groceries,4208,1017,18
+199,Biscuits 49,Groceries,4807,1421,37
+200,Salt 50,Groceries,2763,607,25
