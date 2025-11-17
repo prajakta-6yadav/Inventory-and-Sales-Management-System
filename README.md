@@ -12,25 +12,13 @@ customer activity, and revenue patterns.
 
 Below is the dashboard included in the project:
 
-![Dashboard](WhatsApp_Image_2025-11-17_at_3.46.32_PM.jpeg)
+![83923d25a969b4c51fc2db7e6ed7b206](https://github.com/user-attachments/assets/12d4395c-3908-4a00-b1b4-44581dbaad2a)
+
 
 This dashboard showcases: - **Total Products** - **Total Orders** -
 **Total Stock** - **Low Stock Alerts** - **City-wise Sales Value** -
 **Category-wise Revenue** - **Top 10 Selling Products** - **Total
 Customers**
-
-------------------------------------------------------------------------
-
-## 📁 Project Files (from ZIP)
-
-The uploaded ZIP file contains: - Raw and cleaned datasets\
-- Scripts for data preprocessing\
-- Dashboard source files\
-- Visualizations\
-- Summary reports
-
-All these components work together to provide real-time insights into
-inventory movements and sales trends.
 
 ------------------------------------------------------------------------
 
